@@ -15,5 +15,8 @@ export default {
         TITLE: '#363F5F',
         TEXT: '#969CB2',
         BACKGROUND: '#F0F2F5'
+    },
+    FONTS: {
+
     }
 }
